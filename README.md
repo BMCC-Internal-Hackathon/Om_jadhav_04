@@ -53,3 +53,5 @@ This HTML and JavaScript code represents a simple online grocery store named Orc
 - If you wish to use your own images, simply replace the image URLs in the `productsData` array with the URLs of your desired images.
 
 - Additional features and functionality can be added as needed.
+![Screenshot (8)](https://github.com/BMCC-Internal-Hackathon/Om_jadhav_04/assets/58546061/ffc44fba-deda-48b4-a7bb-2d7010c7cc0e)
+
